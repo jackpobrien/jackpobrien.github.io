@@ -1,25 +1,29 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Personal Portfolio ⚡️
 
-> https://varadbhogayata.github.io
+> Daniel Sherry Portfolio
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
+> https://dbsherry890.github.io
+
+<!--
+![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io)
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) -->
 
 ### Website Preview
+
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://dbsherry890.github.io" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
 
 :star: Star me on GitHub — it helps!
 
+<!--
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
@@ -32,9 +36,10 @@
 - I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
 - To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
 - Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account. -->
 
 ## Sections 📚
+
 ✔️ About me\
 ✔️ Experience\
 ✔️ Projects \
@@ -43,6 +48,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
+<!--
 To view a live example, **[click here](https://varadbhogayata.github.io/)**
 
 ## Tools Used 🛠️
@@ -69,4 +75,4 @@ To view a live example, **[click here](https://varadbhogayata.github.io/)**
 - 🔃 Create a new pull request.
 
 ## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details. -->
