@@ -1,8 +1,8 @@
 # Personal Portfolio ⚡️
 
-> Daniel Sherry Portfolio
+> Jack O'Brien Portfolio
 
-> https://dbsherry890.github.io
+> https://jackpobrien.github.io/
 
 <!--
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io)
